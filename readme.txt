@@ -3,3 +3,4 @@ add one line
 Ha! try stage concept, insert at 3rd line
 hmm, one more line
 Creating a new branch is quick and simple
+switched to a new branch dev, no-ff vs fast forward
