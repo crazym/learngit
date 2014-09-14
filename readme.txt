@@ -1,3 +1,5 @@
+I now wanna try sth different with whats on remote repo
+
 Haha first time trying Git on my PC, gOODluCK yo!
 add one line
 Ha! try stage concept, insert at 3rd line
