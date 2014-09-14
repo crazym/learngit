@@ -1,3 +1,5 @@
+**made some change at a new cloned repo and commit to remote origin/dev
+
 Haha first time trying Git on my PC, gOODluCK yo!
 add one line
 Ha! try stage concept, insert at 3rd line
