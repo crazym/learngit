@@ -1,2 +1,2 @@
-Haha first time trying Git on my PC, gl yo!
+Haha first time trying Git on my PC, gOODluCK yo!
 add one line
