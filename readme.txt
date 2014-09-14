@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 I now wanna try sth different with whats on remote repo
+=======
+**made some change at a new cloned repo and commit to remote origin/dev
+>>>>>>> 134ea0b851ccb298b9815cbbeb4ecfcc26ec4e93
 
 Haha first time trying Git on my PC, gOODluCK yo!
 add one line
